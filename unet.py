@@ -86,6 +86,13 @@ class UNet(nn.Module):
             # Double Conv
             X = double_conv(X)
 
-        X = self.final_conv(X)
+        X = self.last_conv_layer(X)
 
         return X
+
+if __name__ == "__main__":
+    net = UNet()
+
+    a = torch.randn((1, 3, 512, 512))
+
+    print(net(a).shape)
