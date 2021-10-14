@@ -1,0 +1,183 @@
+File: IMG_0631.log
+Ensemble: 
+Predicted Class: Sonneratia caseolaris
+Classes Distribution:
+1. Acanthus ilicifolius: 0.779120147228241
+2. Acrostichum aureum: 0.12721124291419983
+3. Avicennia alba: 0.012859530746936798
+4. Avicennia marina: 0.44813570380210876
+5. Bruguiera cylindrica: 0.0376942902803421
+6. Bruguiera gymnorrihza: 0.016736328601837158
+7. Ceriops tagal: 1.451612114906311
+8. Derris heterophylla: 8.227568626403809
+9. Excoecaria agallocha: 0.2816922068595886
+10. Kandelia candel: 0.11097601056098938
+11. Lumnizera recemosa: 1.2656688690185547
+12. Rhizophora apiculata: 2.4506053924560547
+13. Rhizophora mucronata: 11.603262901306152
+14. Sonneratia alba: 6.621896266937256
+15. Sonneratia caseolaris: 65.22706604003906
+16. Aegiceras corniculatum: 1.3378878831863403
+---
+Resnet: 
+Predicted Class: Sonneratia caseolaris
+Classes Distribution:
+1. Acanthus ilicifolius: 0.9733287692070007
+2. Acrostichum aureum: 0.23772315680980682
+3. Avicennia alba: 0.013039658777415752
+4. Avicennia marina: 0.8901145458221436
+5. Bruguiera cylindrica: 0.06477916985750198
+6. Bruguiera gymnorrihza: 0.025112280622124672
+7. Ceriops tagal: 0.8828549385070801
+8. Derris heterophylla: 12.666474342346191
+9. Excoecaria agallocha: 0.49801528453826904
+10. Kandelia candel: 0.20830370485782623
+11. Lumnizera recemosa: 1.36243736743927
+12. Rhizophora apiculata: 0.8244132399559021
+13. Rhizophora mucronata: 20.817794799804688
+14. Sonneratia alba: 0.5901772379875183
+15. Sonneratia caseolaris: 57.67521667480469
+16. Aegiceras corniculatum: 2.2702109813690186
+---
+VGG: 
+Predicted Class: Sonneratia caseolaris
+Classes Distribution:
+1. Acanthus ilicifolius: 0.584911584854126
+2. Acrostichum aureum: 0.016699327155947685
+3. Avicennia alba: 0.012679400853812695
+4. Avicennia marina: 0.0061568585224449635
+5. Bruguiera cylindrica: 0.010609414428472519
+6. Bruguiera gymnorrihza: 0.00836037565022707
+7. Ceriops tagal: 2.020369291305542
+8. Derris heterophylla: 3.788663148880005
+9. Excoecaria agallocha: 0.06536909192800522
+10. Kandelia candel: 0.01364832278341055
+11. Lumnizera recemosa: 1.1689003705978394
+12. Rhizophora apiculata: 4.076797962188721
+13. Rhizophora mucronata: 2.388730764389038
+14. Sonneratia alba: 12.653615951538086
+15. Sonneratia caseolaris: 72.77891540527344
+16. Aegiceras corniculatum: 0.40556463599205017
+---**---
+File: IMG_0631.log
+Ensemble: 
+Predicted Class: Sonneratia caseolaris
+Classes Distribution:
+1. Acanthus ilicifolius: 0.779120147228241
+2. Acrostichum aureum: 0.12721124291419983
+3. Avicennia alba: 0.012859530746936798
+4. Avicennia marina: 0.44813570380210876
+5. Bruguiera cylindrica: 0.0376942902803421
+6. Bruguiera gymnorrihza: 0.016736328601837158
+7. Ceriops tagal: 1.451612114906311
+8. Derris heterophylla: 8.227568626403809
+9. Excoecaria agallocha: 0.2816922068595886
+10. Kandelia candel: 0.11097601056098938
+11. Lumnizera recemosa: 1.2656688690185547
+12. Rhizophora apiculata: 2.4506053924560547
+13. Rhizophora mucronata: 11.603262901306152
+14. Sonneratia alba: 6.621896266937256
+15. Sonneratia caseolaris: 65.22706604003906
+16. Aegiceras corniculatum: 1.3378878831863403
+---
+Resnet: 
+Predicted Class: Sonneratia caseolaris
+Classes Distribution:
+1. Acanthus ilicifolius: 0.9733287692070007
+2. Acrostichum aureum: 0.23772315680980682
+3. Avicennia alba: 0.013039658777415752
+4. Avicennia marina: 0.8901145458221436
+5. Bruguiera cylindrica: 0.06477916985750198
+6. Bruguiera gymnorrihza: 0.025112280622124672
+7. Ceriops tagal: 0.8828549385070801
+8. Derris heterophylla: 12.666474342346191
+9. Excoecaria agallocha: 0.49801528453826904
+10. Kandelia candel: 0.20830370485782623
+11. Lumnizera recemosa: 1.36243736743927
+12. Rhizophora apiculata: 0.8244132399559021
+13. Rhizophora mucronata: 20.817794799804688
+14. Sonneratia alba: 0.5901772379875183
+15. Sonneratia caseolaris: 57.67521667480469
+16. Aegiceras corniculatum: 2.2702109813690186
+---
+VGG: 
+Predicted Class: Sonneratia caseolaris
+Classes Distribution:
+1. Acanthus ilicifolius: 0.584911584854126
+2. Acrostichum aureum: 0.016699327155947685
+3. Avicennia alba: 0.012679400853812695
+4. Avicennia marina: 0.0061568585224449635
+5. Bruguiera cylindrica: 0.010609414428472519
+6. Bruguiera gymnorrihza: 0.00836037565022707
+7. Ceriops tagal: 2.020369291305542
+8. Derris heterophylla: 3.788663148880005
+9. Excoecaria agallocha: 0.06536909192800522
+10. Kandelia candel: 0.01364832278341055
+11. Lumnizera recemosa: 1.1689003705978394
+12. Rhizophora apiculata: 4.076797962188721
+13. Rhizophora mucronata: 2.388730764389038
+14. Sonneratia alba: 12.653615951538086
+15. Sonneratia caseolaris: 72.77891540527344
+16. Aegiceras corniculatum: 0.40556463599205017
+---**---
+File: IMG_0631.log
+Ensemble: 
+Predicted Class: Rhizophora mucronata
+Classes Distribution:
+1. Acanthus ilicifolius: 0.29245609045028687
+2. Acrostichum aureum: 0.008349921554327011
+3. Avicennia alba: 0.0063406857661902905
+4. Avicennia marina: 1.4656709432601929
+5. Bruguiera cylindrica: 0.009897029958665371
+6. Bruguiera gymnorrihza: 0.004181570373475552
+7. Ceriops tagal: 1.0102168321609497
+8. Derris heterophylla: 1.915804147720337
+9. Excoecaria agallocha: 2.2444329261779785
+10. Kandelia candel: 0.006824790965765715
+11. Lumnizera recemosa: 0.584852397441864
+12. Rhizophora apiculata: 2.1811325550079346
+13. Rhizophora mucronata: 47.32936096191406
+14. Sonneratia alba: 6.326818466186523
+15. Sonneratia caseolaris: 36.40901565551758
+16. Aegiceras corniculatum: 0.20464496314525604
+---
+Resnet: 
+Predicted Class: Rhizophora mucronata
+Classes Distribution:
+1. Acanthus ilicifolius: 6.536196792694682e-07
+2. Acrostichum aureum: 5.162486900189833e-07
+3. Avicennia alba: 1.970583980437368e-06
+4. Avicennia marina: 2.925185203552246
+5. Bruguiera cylindrica: 0.009184646420180798
+6. Bruguiera gymnorrihza: 2.7648684408632107e-06
+7. Ceriops tagal: 6.4381594711449e-05
+8. Derris heterophylla: 0.04294513911008835
+9. Excoecaria agallocha: 4.423496723175049
+10. Kandelia candel: 1.2594452982739313e-06
+11. Lumnizera recemosa: 0.0008044641581363976
+12. Rhizophora apiculata: 0.2854672074317932
+13. Rhizophora mucronata: 92.26998901367188
+14. Sonneratia alba: 2.1270296201691963e-05
+15. Sonneratia caseolaris: 0.039117902517318726
+16. Aegiceras corniculatum: 0.0037252898328006268
+---
+VGG: 
+Predicted Class: Sonneratia caseolaris
+Classes Distribution:
+1. Acanthus ilicifolius: 0.584911584854126
+2. Acrostichum aureum: 0.016699327155947685
+3. Avicennia alba: 0.012679400853812695
+4. Avicennia marina: 0.0061568585224449635
+5. Bruguiera cylindrica: 0.010609414428472519
+6. Bruguiera gymnorrihza: 0.00836037565022707
+7. Ceriops tagal: 2.020369291305542
+8. Derris heterophylla: 3.788663148880005
+9. Excoecaria agallocha: 0.06536909192800522
+10. Kandelia candel: 0.01364832278341055
+11. Lumnizera recemosa: 1.1689003705978394
+12. Rhizophora apiculata: 4.076797962188721
+13. Rhizophora mucronata: 2.388730764389038
+14. Sonneratia alba: 12.653615951538086
+15. Sonneratia caseolaris: 72.77891540527344
+16. Aegiceras corniculatum: 0.40556463599205017
+---**---
