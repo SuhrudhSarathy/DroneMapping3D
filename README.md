@@ -1,5 +1,5 @@
 ## Forest Department Project (WIP)
-This repository contains the `classification` model for the tasks required to be accomplised as a part of the Forst Department Project done by Aerodynamics Club, BITS Goa.
+This repository contains the `classification` model for the tasks required to be accomplised as a part of the Forest Department Project done by Aerodynamics Club, BITS Goa.
 
 ### Classification model (WIP)
 We performed Transfer Learning on pretrained `Resnet18` and `VGG` models from Pytorch. We use the ensemble of the two for inference.
