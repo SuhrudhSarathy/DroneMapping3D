@@ -23,4 +23,10 @@ The model was tested on real world data collected from our visits to Mangrove fo
 ![Sample](fig/IMG_0629_test.png)
 ![Sample 2](fig/IMG_0630_test.png)
 
+## App
+We made an app to run predictions and visualise results from the model. The app is built using `tkinter` in python. Here are a few screenshots of the app
+
+![Main Screen](fig/mainScreen.png)
+![Photo Visualiser](fig/photoVis.png)
+![Results](fig/result.png)
 
