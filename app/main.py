@@ -77,9 +77,19 @@ class App:
             title="Select File",
             filetypes=self.file_types
         )
+        self.file_name = self.file_name.strip()
 
-        print(self.file_name)
-        self.file_selected = True
+        if len(self.file_name) <= 3:
+            self.file_selected = False
+        else:
+            self.file_selected = True
+            self.canvas.delete("all")
+
+            self.result_img = Image.open(self.file_name)
+            self.result_img = self.result_img.resize((800, 600))
+            self.result_img = ImageTk.PhotoImage(self.result_img)
+            self.canvas.create_image(60, 50, image=self.result_img, anchor=NW)
+
 
         if self.destination_selected:
             self.predict_button["state"] = NORMAL
