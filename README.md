@@ -1,4 +1,4 @@
-## Forest Department Project (WIP)
+## Forest Department Project
 This repository contains the `classification` model for the tasks required to be accomplised as a part of the Forest Department Project done by Aerodynamics Club, BITS Goa.
 
 ## Project Description
